@@ -1,2 +1,2 @@
 # trabalho-poo-python
-Trabalho POO em Pyhton | SENAC PR
+Exercícios acadêmicos de Programação Orientada a Objetos em Python
