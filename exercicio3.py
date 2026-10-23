@@ -1,4 +1,4 @@
-# 3. Controle de produtos
+# 3 Controle de produtos.
 # Uma loja precisa controlar preços e quantidades. Crie a classe Produto com __nome, __preco e __quantidade.
 # •	Implemente getters ou propriedades para consultar os dados.
 # •	Crie setters com validação para preço e quantidade não negativos.
